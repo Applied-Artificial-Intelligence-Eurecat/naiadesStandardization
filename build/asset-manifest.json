@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/naiadesStandardization/static/css/main.d4a1ce40.chunk.css",
+    "main.js": "/naiadesStandardization/static/js/main.36518024.chunk.js",
+    "main.js.map": "/naiadesStandardization/static/js/main.36518024.chunk.js.map",
+    "runtime-main.js": "/naiadesStandardization/static/js/runtime-main.52ff73d7.js",
+    "runtime-main.js.map": "/naiadesStandardization/static/js/runtime-main.52ff73d7.js.map",
+    "static/js/2.993d4722.chunk.js": "/naiadesStandardization/static/js/2.993d4722.chunk.js",
+    "static/js/2.993d4722.chunk.js.map": "/naiadesStandardization/static/js/2.993d4722.chunk.js.map",
+    "index.html": "/naiadesStandardization/index.html",
+    "precache-manifest.2f27c8fcc98b523e3446b7f4a0faa07f.js": "/naiadesStandardization/precache-manifest.2f27c8fcc98b523e3446b7f4a0faa07f.js",
+    "service-worker.js": "/naiadesStandardization/service-worker.js",
+    "static/css/main.d4a1ce40.chunk.css.map": "/naiadesStandardization/static/css/main.d4a1ce40.chunk.css.map",
+    "static/js/2.993d4722.chunk.js.LICENSE": "/naiadesStandardization/static/js/2.993d4722.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52ff73d7.js",
+    "static/js/2.993d4722.chunk.js",
+    "static/css/main.d4a1ce40.chunk.css",
+    "static/js/main.36518024.chunk.js"
+  ]
+}
